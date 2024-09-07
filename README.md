@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham11440/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Shubham11440/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham11440/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Shubham11440/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
