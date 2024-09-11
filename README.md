@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham11440/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Shubham11440/LeetCode/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/Shubham11440/LeetCode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/Shubham11440/LeetCode/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shubham11440/LeetCode/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shubham11440/LeetCode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shubham11440/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
