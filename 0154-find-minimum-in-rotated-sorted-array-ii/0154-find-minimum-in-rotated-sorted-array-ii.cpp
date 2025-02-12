@@ -15,7 +15,7 @@ public:
                 high = mid;
             } 
             else {
-            // When nums[mid] == nums[high], we cannot determine the minimum, so we reduce high
+         // When nums[mid] == nums[high], we cannot determine the minimum, so we reduce high
                 high--;
             }
         }
