@@ -78,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shubham11440/LeetCode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Shubham11440/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Shubham11440/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
