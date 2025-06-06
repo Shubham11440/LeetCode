@@ -9,11 +9,19 @@
 class Solution {
 public:
     void deleteNode(ListNode* node) {
+         // You can't delete the last node with this method
         if (node == nullptr || node->next == nullptr) return;
-        
-        node->val = node->next->val;            
-        ListNode* temp = node->next;            
-        node->next = node->next->next;          
-        delete temp;                            
+
+        // Copy data from the next node to this node
+        node->val = node->next->val;
+
+        // Store the next node
+        ListNode* temp = node->next;
+
+        // Skip the next node
+        node->next = node->next->next;
+
+        // Delete the skipped node
+        delete temp;                         
     }
 };
