@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubham11440/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Shubham11440/LeetCode/tree/master/0069-sqrtx) |
 | [2032-largest-odd-number-in-string](https://github.com/Shubham11440/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubham11440/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubham11440/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubham11440/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Shubham11440/LeetCode/tree/master/0061-rotate-list) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubham11440/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubham11440/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Shubham11440/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
