@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shubham11440/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shubham11440/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shubham11440/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubham11440/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Shubham11440/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Shubham11440/LeetCode/tree/master/0069-sqrtx) |
 | [2032-largest-odd-number-in-string](https://github.com/Shubham11440/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shubham11440/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shubham11440/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Shubham11440/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubham11440/LeetCode/tree/master/0151-reverse-words-in-a-string) |
