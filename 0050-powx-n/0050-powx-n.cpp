@@ -1,20 +1,23 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        double ans = 1.0;
-        long nn = n;
-        if(nn < 0) nn = -1 * nn;
-        while(nn > 0){
-            if(nn % 2 == 1){
-                ans = ans * x;
-                nn = nn - 1;
-            }
-            else {
-                x = x * x;
-                nn = nn / 2;
-            }
+        return binaryExp(x, static_cast<long>(n));
+    }
+
+private:
+    double binaryExp(double x, long n) {
+        if (n == 0) {
+            return 1;
         }
-        if(n<0) ans = (double)(1.0) / (double)(ans);
-        return ans;
+       
+        if (n < 0) {
+            return 1.0 / binaryExp(x, -n);
+        }
+       
+        if (n % 2 == 1) {
+            return x * binaryExp(x * x, (n - 1) / 2);
+        } else {
+            return binaryExp(x * x, n / 2);
+        }
     }
 };
