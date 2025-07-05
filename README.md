@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shubham11440/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shubham11440/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Shubham11440/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shubham11440/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubham11440/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shubham11440/LeetCode/tree/master/0118-pascals-triangle) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubham11440/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Shubham11440/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shubham11440/LeetCode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shubham11440/LeetCode/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shubham11440/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
