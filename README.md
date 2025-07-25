@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham11440/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Shubham11440/LeetCode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Shubham11440/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham11440/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -201,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shubham11440/LeetCode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Shubham11440/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
