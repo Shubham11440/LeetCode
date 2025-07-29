@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham11440/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham11440/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shubham11440/LeetCode/tree/master/0792-binary-search) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham11440/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shubham11440/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shubham11440/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham11440/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Shubham11440/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Shubham11440/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubham11440/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Shubham11440/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shubham11440/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham11440/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Shubham11440/LeetCode/tree/master/2050-count-good-numbers) |
 ## Merge Sort
 |  |
@@ -203,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Shubham11440/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Shubham11440/LeetCode/tree/master/0191-number-of-1-bits) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham11440/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham11440/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
