@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubham11440/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shubham11440/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Shubham11440/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Shubham11440/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Shubham11440/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shubham11440/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0283-move-zeroes) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shubham11440/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubham11440/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubham11440/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Shubham11440/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shubham11440/LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Shubham11440/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shubham11440/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shubham11440/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Shubham11440/LeetCode/tree/master/0189-rotate-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham11440/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Shubham11440/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Shubham11440/LeetCode/tree/master/2050-count-good-numbers) |
