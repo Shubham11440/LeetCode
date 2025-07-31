@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham11440/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shubham11440/LeetCode/tree/master/0792-binary-search) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Shubham11440/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shubham11440/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham11440/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
