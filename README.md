@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shubham11440/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham11440/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Shubham11440/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Shubham11440/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubham11440/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Shubham11440/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
