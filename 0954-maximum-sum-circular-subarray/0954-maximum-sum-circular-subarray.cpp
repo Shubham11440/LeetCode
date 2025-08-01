@@ -12,16 +12,15 @@ public:
     int maxSubarraySumCircular(vector<int>& nums) {
         int totalSum = 0;
         int n = nums.size();
-
         int maxNormal = kadaneMax(nums);
 
         for (int i = 0; i < n; i++) {
-            totalSum += nums[i];  
-            nums[i] = -nums[i];    
+            totalSum += nums[i];
+            nums[i] = -nums[i];
         }
 
         int invertedKadane = kadaneMax(nums);
-        int maxCircular = totalSum + invertedKadane; 
+        int maxCircular = totalSum + invertedKadane;
 
         if (maxCircular == 0) return maxNormal;
 
