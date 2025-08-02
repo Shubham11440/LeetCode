@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shubham11440/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham11440/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubham11440/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Shubham11440/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Shubham11440/LeetCode/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Shubham11440/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Shubham11440/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -255,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shubham11440/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Shubham11440/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
