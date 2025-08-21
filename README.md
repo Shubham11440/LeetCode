@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shubham11440/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubham11440/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Shubham11440/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Shubham11440/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Shubham11440/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shubham11440/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shubham11440/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubham11440/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Shubham11440/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Matrix
 |  |
 | ------- |
